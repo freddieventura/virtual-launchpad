@@ -13,6 +13,8 @@ open-stage-control --load open-stage-control --midi virtual-launchpad:<MIDIOUTfr
     - LED status of the PAD
     - To update the status on Ableton Press "update"
 
+## Screenshot
 
+![](2021-03-13-100310_1918x1056_scrot.png)
 
 
