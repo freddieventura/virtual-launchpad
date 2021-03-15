@@ -19,5 +19,5 @@ As per update by jean-emmanuel  https://github.com/jean-emmanuel/
 
 ## Screenshot
 
-![](22021-03-15-121236_1918x1056_scrot.png)
+![](2021-03-15-121236_1918x1056_scrot.png)
 
