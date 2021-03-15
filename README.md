@@ -7,7 +7,7 @@ Usage :
 open-stage-control --load open-stage-control --midi virtual-launchpad:<MIDIOUTfromDAW>,<MIDIINFROMDAW> --load virtual-launchpad.json
 ```
 
-## v.1.02 features
+## v.1.03 features
 As per update by jean-emmanuel  https://github.com/jean-emmanuel/
     - Improved layout responsive adapting to any screensize
 
@@ -19,5 +19,5 @@ As per update by jean-emmanuel  https://github.com/jean-emmanuel/
 
 ## Screenshot
 
-![](2021-03-13-130906_1918x1056_scrot.png)
+![](22021-03-15-121236_1918x1056_scrot.png)
 
